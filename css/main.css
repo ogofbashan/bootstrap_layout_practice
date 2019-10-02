@@ -1,0 +1,62 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  overflow-x: hidden;
+  background-color: #00205B;
+}
+
+.container > .row {
+  margin-top: 100px;
+}
+
+.card {
+  padding: 5%;
+  margin-top: 20px;
+}
+
+.card-img > img {
+  display: block;
+  margin: 25px auto;
+  width: 100%;
+  border-radius: 5px;
+}
+
+.card-title {
+  font-size: 130%;
+  font-weight: bold;
+}
+
+.card-subtitle {
+  font-size: 90%;
+  font-style: italic;
+}
+
+.card-text > p {
+  text-align: center;
+  padding: 5px;
+  padding-top: 15px;
+}
+
+.card > button {
+  width: 80%;
+  margin: 15px auto;
+}
+
+.padding-top-sm {
+  padding-top: 5%;
+}
+
+footer {
+  background-color: #343a40!important;
+  margin-top: 100px;
+}
+
+footer p {
+  color: rgba(255,255,255,.5);
+  padding: 5%;
+}
+
+.btn {
+  background-color: #343a40;
+  color: rgba(255,255,255,.5);
+}
